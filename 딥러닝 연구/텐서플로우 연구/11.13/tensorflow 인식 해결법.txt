@@ -1,0 +1,2 @@
+tensorflow 1.15를 다운 ( pip install tensorflow==1.15 )
+터미널에선되고 주피터에선안됨 -> 경로맞춰주기 ..경로/python -m pip install 필요모듈
