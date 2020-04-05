@@ -1,0 +1,7 @@
+경로가 다름
+https://new93helloworld.tistory.com/328 ( which -> where )
+C:\Users\이승희\AppData\Local\Programs\Python\Python37-32\python.exe -m pip install ~
+ㄴ 터미널 전용
+
+C:\Program Files\anaconda3>python -m pip install gym
+ㄴ 주피터 전용경로 여따가 설치하자
