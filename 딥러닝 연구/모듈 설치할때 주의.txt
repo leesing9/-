@@ -1,7 +1,8 @@
-╟Ф╥н╟║ ╢ы╦╖
+Й╡╫К║°Й╟─ К▀╓К╕└
 https://new93helloworld.tistory.com/328 ( which -> where )
-C:\Users\юл╫бхЯ\AppData\Local\Programs\Python\Python37-32\python.exe -m pip install ~
-╓╓ ем╧лЁн юЭ©К
+
+C:\Users\Л²╢Л┼╧М²╛\AppData\Local\Programs\Python\Python37-32\python.exe -m pip install ~
+Ц└╢ М└╟К╞╦К└░ Л═└Л ╘
 
 C:\Program Files\anaconda3>python -m pip install gym
-╓╓ ажггем юЭ©К╟Ф╥н ©╘╣Ш╟║ ╪Ёд║гоюз
+Ц└╢ Лё╪М■╪М└╟ Л═└Л ╘Й╡╫К║° Л≈╛К■╟Й╟─ Л└╓Л╧≤М∙≤Л·░
